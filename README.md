@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-sensation-so-real/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Skin Sensation So Real](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-sensation-so-real/) |
+| **Get License** | [Official Music Licensing for Skin Sensation So Real](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-sensation-so-real/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e6a660c5840eb94df1e0cf3554e2ccfccf10c68429879fbb65412b61898c6067` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
