@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-sensation-so-real/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Skin Sensation So Real](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-sensation-so-real/) |
+| **Get License** | [Get a Licensing Quote for Skin Sensation So Real](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-sensation-so-real/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There’s a spark in the dark when you’re standing this close
+> Pulling me deeper than you’ll ever expose
+> It's a heat in the shadows where your fingertips fall
+> Skin sensation so real, making sense of it all
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
